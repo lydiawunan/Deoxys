@@ -1,7 +1,7 @@
 # Deoxys: <u>De</u>fensive Appr<u>oxi</u>mate Computing for <u>S</u>ecure Graph Neural Networks [ASAP'24]
 
 ## Overview
-<img src="images/overview.png" width="300"/>
+<img src="images/overview.png" width="500"/>
 
 
 ## Goal
